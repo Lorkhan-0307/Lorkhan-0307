@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Game Client Dev. 꿈을 꾸는 개발자
 
 <!--
 **Lorkhan-0307/Lorkhan-0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
